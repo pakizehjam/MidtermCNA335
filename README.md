@@ -1,15 +1,15 @@
-#### MidtermCNA335
+# MidtermCNA335
   
    The Midterm project is about the population of the states.
    In this project, we should be working on a program that shows us the population of the states.
    Also, we should edit the population.
  
-## First step:
+### First step:
   
   Create a database on PHPMyAdmin with zipcodes name. 
   The database should have zipcode and population columns.
   
-## Second step:
+### Second step:
   
   Creating the script of the zipcodes.py for uploading the data from a CSV file to the zipcodes database.
   
